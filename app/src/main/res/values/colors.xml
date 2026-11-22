@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="guild_background">#FF120C08</color>
+    <color name="guild_card">#FF1D140D</color>
+    <color name="guild_secondary_card">#FF2A1C12</color>
+    <color name="guild_gold">#FFD4A93C</color>
+    <color name="guild_gold_dark">#FF8B6B2E</color>
+    <color name="guild_parchment">#FFF3E7C9</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

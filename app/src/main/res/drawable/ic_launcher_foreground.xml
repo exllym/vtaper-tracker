@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:rotation="-45">
+        <!-- Central Barbell Bar -->
+        <path
+            android:pathData="M44.5,54 L63.5,54"
+            android:strokeColor="#D4A93C"
+            android:strokeWidth="6"
+            android:strokeLineCap="round" />
+
+        <!-- Left Outer Barbell Stub -->
+        <path
+            android:pathData="M27.5,54 L21,54"
+            android:strokeColor="#D4A93C"
+            android:strokeWidth="6"
+            android:strokeLineCap="round" />
+
+        <!-- Right Outer Barbell Stub -->
+        <path
+            android:pathData="M80.5,54 L87,54"
+            android:strokeColor="#D4A93C"
+            android:strokeWidth="6"
+            android:strokeLineCap="round" />
+
+        <!-- Left Weight Plate (Capsule / Stadium Outline) -->
+        <path
+            android:pathData="M29,41 A6.5,6.5 0 0,1 42,41 L42,67 A6.5,6.5 0 0,1 29,67 Z"
+            android:fillColor="#00000000"
+            android:strokeColor="#D4A93C"
+            android:strokeWidth="5.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+
+        <!-- Right Weight Plate (Capsule / Stadium Outline) -->
+        <path
+            android:pathData="M66,41 A6.5,6.5 0 0,1 79,41 L79,67 A6.5,6.5 0 0,1 66,67 Z"
+            android:fillColor="#00000000"
+            android:strokeColor="#D4A93C"
+            android:strokeWidth="5.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+    </group>
+</vector>
