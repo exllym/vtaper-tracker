@@ -1,0 +1,8 @@
+{
+  "name": "V-Taper Guild",
+  "description": "Aplikasi pelacak latihan gym bertema Guild Petualang dengan program split Upper/Lower, rest timer, catatan berat badan, ukuran V-taper, dan sistem pangkat guild.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
